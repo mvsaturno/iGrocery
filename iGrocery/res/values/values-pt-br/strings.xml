@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">iGrocery</string>
+    <string name="action_settings">Configurações</string>
+    <string name="hello_world">Olá Mundo!</string>
+    <string name="welcome">Bem vindo!</string>
+	<string name="email">Seu email</string>
+    <string name="passwd">Senha</string>
+    <string name="register">Registre-se</string>
+    <string name="login">Login</string>
+</resources>
