@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+	<!-- Tela inicial -->
     <string name="app_name">iGrocery</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
@@ -9,5 +9,13 @@
     <string name="passwd">Password</string>
     <string name="register">Register</string>
     <string name="login">Login</string>
-
+    
+    <!-- Tela de Registro -->
+    <string name="firstname">First Name</string>
+    <string name="lastname">Last Name</string>
+    <string name="register_descr">Register into iGrocery</string>
+    <string name="city">City</string>
+    
+    <!-- Tela de Principal -->
+    <string name="new_list">New List</string>
 </resources>
