@@ -7,15 +7,17 @@
     <string name="welcome">Bem vindo!</string>
 	<string name="email">Seu email</string>
     <string name="passwd">Senha</string>
-    <string name="register">Registre-se</string>
+    <string name="register">Não tem uma conta? Registre-se</string>
     <string name="login">Login</string>
     
     <!-- Tela de Registro -->
-    <string name="firstname">Nome</string>
-    <string name="lastname">Sobrenome</string>
+    <string name="fullname">Nome Completo</string>
+    <string name="register_title">Complete o Form:</string>
     <string name="register_descr">Registre-se no iGrocery</string>
+    <string name="register_back">Já registrado? Faça o Login!</string>
     <string name="city">Cidade</string>
     
     <!-- Tela Principal -->
     <string name="new_list">Nova Lista</string>
+    <string name="logout">Sair</string>
 </resources>
