@@ -35,9 +35,9 @@ public final class R {
         public static final int button1=0x7f080006;
         public static final int button2=0x7f080007;
         public static final int editText2=0x7f080004;
+        public static final int expandableListView1=0x7f080001;
         public static final int fragment1=0x7f080000;
         public static final int imageButton1=0x7f080008;
-        public static final int lista_produtos=0x7f080001;
         public static final int login_email=0x7f080010;
         public static final int login_firstname=0x7f080003;
         public static final int login_lastname=0x7f08000d;
